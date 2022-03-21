@@ -15,7 +15,7 @@ const SearchBar = ({
   return (
     <Box>
       <Autocomplete
-        sx={{ width: 254, height: 1000 }}
+        sx={{ width: 254 }}
         freeSolo
         blurOnSelect
         disableClearable
